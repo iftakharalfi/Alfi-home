@@ -1,0 +1,145 @@
+/* fonts
+font-family: 'Bebas Neue', cursive;
+font-family: 'Zen Tokyo Zoo', cursive; 
+font-family: 'Dancing Script', cursive;
+font-family: 'Sanchez', serif;*/
+#header{
+    background: #f1efef;
+}
+.img1{
+    width: 100%;
+    padding: 3%;
+ 
+   
+}
+.img2{
+    width: 80%;
+   
+}
+#praise{
+    background: white;
+    margin-top: 30px;
+}
+.topbar{
+   
+}
+.zen{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 35px;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5rem;
+}
+p{
+    font-family: 'Sanchez', serif;;
+    font-size: 20px;
+    font-weight: 400;
+}
+.my-nav li a{
+    transition: .3s;
+}
+.my-nav li a:hover{
+    background: rgb(192, 187, 187);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.para{
+    margin-top: 5%;
+    letter-spacing: 1.5px;
+}
+.our-work{
+    background: #F1EFEF;
+    margin: 10px;
+  
+}
+.our-work h1{
+    font-size: 50px;
+    color: rgb(48, 46, 46);
+}
+.my-icon{
+    background:rgb(92, 79, 92);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.my-work{
+    background: rgb(233, 229, 229);
+    border-radius: 10px;
+    border: 1px solid rgb(65, 63, 63);
+}
+.my-btn{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+#aboutme{
+    background: white;
+    margin-top: 50px;
+}
+.my-hr{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 200px;
+    margin: auto;
+}
+.my-p{
+    font-size: 20px;
+    font-weight: light;
+    max-width: 90%;
+    margin-left: 15px;
+}
+.my-block{
+    background: gre;
+    padding: 5%;
+    margin: 5%;
+    box-shadow: 1px 1px 10px rgb(102, 96, 96);
+}
+.my-border{
+    border-right: 3px solid rgb(65, 63, 63);
+}
+#social{
+    min-height: 300px;
+    background: rgb(56, 53, 53);
+    color: white;
+}
+.my-i-socio{
+    margin-top: 20px;
+}
+#project{
+    background: #2F2E41;
+    padding: 17% 10%;
+    color: white;
+    
+}
+.project-img{
+    width:200px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic ;
+}
+.alfi{
+    margin: 6rem;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 70px;
+}
+.blockquote-footer{
+    color: white;
+}
+.my-hide{
+    max-width: 80%;
+    box-shadow: 1px 2px 3px grey;
+    margin: auto;
+}
+.last-line{
+    font-family: 'Dancing Script', cursive;
+}
